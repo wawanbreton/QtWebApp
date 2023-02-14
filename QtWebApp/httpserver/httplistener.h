@@ -9,10 +9,10 @@
 #include <QTcpServer>
 #include <QSettings>
 #include <QBasicTimer>
-#include "httpglobal.h"
-#include "httpconnectionhandler.h"
-#include "httpconnectionhandlerpool.h"
-#include "httprequesthandler.h"
+#include "httpserver/httpglobal.h"
+#include "httpserver/httpconnectionhandler.h"
+#include "httpserver/httpconnectionhandlerpool.h"
+#include "httpserver/httprequesthandler.h"
 
 namespace stefanfrings {
 

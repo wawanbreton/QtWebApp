@@ -12,8 +12,8 @@
 #include <QStringList>
 #include <QMutex>
 #include <QObject>
-#include "logglobal.h"
-#include "logmessage.h"
+#include "logging/logglobal.h"
+#include "logging/logmessage.h"
 
 namespace stefanfrings {
 

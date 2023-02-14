@@ -9,8 +9,8 @@
 #include <QMap>
 #include <QString>
 #include <QTcpSocket>
-#include "httpglobal.h"
-#include "httpcookie.h"
+#include "httpserver/httpglobal.h"
+#include "httpserver/httpcookie.h"
 
 namespace stefanfrings {
 

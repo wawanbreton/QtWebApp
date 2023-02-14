@@ -2,8 +2,8 @@
 #define TEMPLATECACHE_H
 
 #include <QCache>
-#include "templateglobal.h"
-#include "templateloader.h"
+#include "templateengine/templateglobal.h"
+#include "templateengine/templateloader.h"
 
 namespace stefanfrings {
 

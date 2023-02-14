@@ -13,9 +13,9 @@
 #include <QSettings>
 #include <QTimer>
 #include <QThread>
-#include "httpglobal.h"
-#include "httprequest.h"
-#include "httprequesthandler.h"
+#include "httpserver/httpglobal.h"
+#include "httpserver/httprequest.h"
+#include "httpserver/httprequesthandler.h"
 
 namespace stefanfrings {
 

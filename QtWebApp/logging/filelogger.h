@@ -11,8 +11,8 @@
 #include <QFile>
 #include <QMutex>
 #include <QBasicTimer>
-#include "logglobal.h"
-#include "logger.h"
+#include "logging/logglobal.h"
+#include "logging/logger.h"
 
 namespace stefanfrings {
 

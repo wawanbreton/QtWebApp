@@ -11,7 +11,7 @@
 #include <QTextCodec>
 #include <QFile>
 #include <QString>
-#include "templateglobal.h"
+#include "templateengine/templateglobal.h"
 
 namespace stefanfrings {
 

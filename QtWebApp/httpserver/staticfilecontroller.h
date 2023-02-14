@@ -8,10 +8,10 @@
 
 #include <QCache>
 #include <QMutex>
-#include "httpglobal.h"
-#include "httprequest.h"
-#include "httpresponse.h"
-#include "httprequesthandler.h"
+#include "httpserver/httpglobal.h"
+#include "httpserver/httprequest.h"
+#include "httpserver/httpresponse.h"
+#include "httpserver/httprequesthandler.h"
 
 namespace stefanfrings {
 

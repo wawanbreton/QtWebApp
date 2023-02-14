@@ -10,8 +10,8 @@
 #include <QSettings>
 #include <QtGlobal>
 #include "logglobal.h"
-#include "logger.h"
-#include "filelogger.h"
+#include "logging/logger.h"
+#include "logging/filelogger.h"
 
 namespace stefanfrings {
 

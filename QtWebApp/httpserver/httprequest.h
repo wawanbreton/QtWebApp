@@ -14,7 +14,7 @@
 #include <QSettings>
 #include <QTemporaryFile>
 #include <QUuid>
-#include "httpglobal.h"
+#include "httpserver/httpglobal.h"
 
 namespace stefanfrings {
 

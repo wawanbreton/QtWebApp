@@ -10,8 +10,8 @@
 #include <QSettings>
 #include <QMutex>
 #include <QTextCodec>
-#include "templateglobal.h"
-#include "template.h"
+#include "templateengine/templateglobal.h"
+#include "templateengine/template.h"
 
 namespace stefanfrings {
 

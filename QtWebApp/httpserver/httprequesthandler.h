@@ -6,9 +6,9 @@
 #ifndef HTTPREQUESTHANDLER_H
 #define HTTPREQUESTHANDLER_H
 
-#include "httpglobal.h"
-#include "httprequest.h"
-#include "httpresponse.h"
+#include "httpserver/httpglobal.h"
+#include "httpserver/httprequest.h"
+#include "httpserver/httpresponse.h"
 
 namespace stefanfrings {
 

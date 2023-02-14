@@ -5,8 +5,8 @@
 #include <QTimer>
 #include <QObject>
 #include <QMutex>
-#include "httpglobal.h"
-#include "httpconnectionhandler.h"
+#include "httpserver/httpglobal.h"
+#include "httpserver/httpconnectionhandler.h"
 
 namespace stefanfrings {
 

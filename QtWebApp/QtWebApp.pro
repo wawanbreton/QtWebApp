@@ -573,3 +573,7 @@ DISTFILES += mainpage.dox Doxyfile ../CHANGELOG.txt ../LICENSE.txt ../README.txt
 include(logging/logging.pri)
 include(httpserver/httpserver.pri)
 include(templateengine/templateengine.pri)
+
+INSTALLS += target
+target.path=$$[QT_INSTALL_LIBS]
+

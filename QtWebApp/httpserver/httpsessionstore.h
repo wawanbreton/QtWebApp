@@ -10,10 +10,10 @@
 #include <QMap>
 #include <QTimer>
 #include <QMutex>
-#include "httpglobal.h"
-#include "httpsession.h"
-#include "httpresponse.h"
-#include "httprequest.h"
+#include "httpserver/httpglobal.h"
+#include "httpserver/httpsession.h"
+#include "httpserver/httpresponse.h"
+#include "httpserver/httprequest.h"
 
 namespace stefanfrings {
 

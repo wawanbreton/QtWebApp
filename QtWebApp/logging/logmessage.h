@@ -9,7 +9,7 @@
 #include <QtGlobal>
 #include <QDateTime>
 #include <QHash>
-#include "logglobal.h"
+#include "logging/logglobal.h"
 
 namespace stefanfrings {
 
